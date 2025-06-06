@@ -1,0 +1,12 @@
+#Access Token
+{
+            "type": "amadeusOAuth2Token",
+            "username": "hsieh.shane@icloud.com",
+            "application_name": "FlightFinder",
+            "client_id": "6G7wx33iVcdEtwAGPcxfPARKHjGvy4a2",
+            "token_type": "Bearer",
+            "access_token": "ODFRsjfW4OKdAVQIGQ29kBeNwGEq",
+            "expires_in": 1799,
+            "state": "approved",
+            "scope": ""
+        }
