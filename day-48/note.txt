@@ -1,0 +1,8 @@
+Cursor - 15
+Grandma - 100
+Factory - 500
+Mine - 2,000
+Shipment - 7,000
+Alchemy lab - 50,000
+Portal - 1,000,000
+Time machine - 123,456,789
