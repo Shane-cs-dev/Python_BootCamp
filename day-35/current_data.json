@@ -1,0 +1,176 @@
+{
+   "cod": "200",
+   "message": 0,
+   "cnt": 4,
+   "list": [
+      {
+         "dt": 1734447600,
+         "main": {
+            "temp": 290.22,
+            "feels_like": 289.78,
+            "temp_min": 289.36,
+            "temp_max": 290.22,
+            "pressure": 1023,
+            "sea_level": 1023,
+            "grnd_level": 998,
+            "humidity": 69,
+            "temp_kf": 0.86
+         },
+         "weather": [
+            {
+               "id": 500,
+               "main": "Rain",
+               "description": "light rain",
+               "icon": "10n"
+            }
+         ],
+         "clouds": {
+            "all": 99
+         },
+         "wind": {
+            "speed": 3.38,
+            "deg": 70,
+            "gust": 7.42
+         },
+         "visibility": 10000,
+         "pop": 0.43,
+         "rain": {
+            "3h": 0.22
+         },
+         "sys": {
+            "pod": "n"
+         },
+         "dt_txt": "2024-12-17 15:00:00"
+      },
+      {
+         "dt": 1734458400,
+         "main": {
+            "temp": 289.47,
+            "feels_like": 289.25,
+            "temp_min": 288.88,
+            "temp_max": 289.47,
+            "pressure": 1022,
+            "sea_level": 1022,
+            "grnd_level": 998,
+            "humidity": 80,
+            "temp_kf": 0.59
+         },
+         "weather": [
+            {
+               "id": 500,
+               "main": "Rain",
+               "description": "light rain",
+               "icon": "10n"
+            }
+         ],
+         "clouds": {
+            "all": 99
+         },
+         "wind": {
+            "speed": 3.27,
+            "deg": 52,
+            "gust": 6.53
+         },
+         "visibility": 10000,
+         "pop": 0.69,
+         "rain": {
+            "3h": 0.55
+         },
+         "sys": {
+            "pod": "n"
+         },
+         "dt_txt": "2024-12-17 18:00:00"
+      },
+      {
+         "dt": 1734469200,
+         "main": {
+            "temp": 288.74,
+            "feels_like": 288.57,
+            "temp_min": 288.74,
+            "temp_max": 288.74,
+            "pressure": 1022,
+            "sea_level": 1022,
+            "grnd_level": 998,
+            "humidity": 85,
+            "temp_kf": 0
+         },
+         "weather": [
+            {
+               "id": 500,
+               "main": "Rain",
+               "description": "light rain",
+               "icon": "10n"
+            }
+         ],
+         "clouds": {
+            "all": 99
+         },
+         "wind": {
+            "speed": 2.47,
+            "deg": 45,
+            "gust": 5.62
+         },
+         "visibility": 10000,
+         "pop": 0.59,
+         "rain": {
+            "3h": 0.29
+         },
+         "sys": {
+            "pod": "n"
+         },
+         "dt_txt": "2024-12-17 21:00:00"
+      },
+      {
+         "dt": 1734480000,
+         "main": {
+            "temp": 288.48,
+            "feels_like": 288.18,
+            "temp_min": 288.48,
+            "temp_max": 288.48,
+            "pressure": 1024,
+            "sea_level": 1024,
+            "grnd_level": 1000,
+            "humidity": 81,
+            "temp_kf": 0
+         },
+         "weather": [
+            {
+               "id": 500,
+               "main": "Rain",
+               "description": "light rain",
+               "icon": "10d"
+            }
+         ],
+         "clouds": {
+            "all": 99
+         },
+         "wind": {
+            "speed": 2.63,
+            "deg": 57,
+            "gust": 6.5
+         },
+         "visibility": 10000,
+         "pop": 0.82,
+         "rain": {
+            "3h": 0.54
+         },
+         "sys": {
+            "pod": "d"
+         },
+         "dt_txt": "2024-12-18 00:00:00"
+      }
+   ],
+   "city": {
+      "id": 1675720,
+      "name": "Xianeibu",
+      "coord": {
+         "lat": 25.033,
+         "lon": 121.5654
+      },
+      "country": "TW",
+      "population": 0,
+      "timezone": 28800,
+      "sunrise": 1734388341,
+      "sunset": 1734426444
+   }
+}
